@@ -1,0 +1,13 @@
+{
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "printWidth": 100,
+    "useTabs": false,
+    "vueIndentScriptAndStyle": true,
+    "tailwindFunctions": ["tv"],
+    "plugins": ["prettier-plugin-tailwindcss"]
+}
